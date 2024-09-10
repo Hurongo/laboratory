@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\VS\Lib1var4\Lib1var4\main.cpp(7,18): warning C4305: инициализация: усечение из "double" в "float"
+D:\VS\Lib1var4\Lib1var4\main.cpp(31,41): warning C4474: "printf_s" : для строки формата передано слишком много аргументов
+      D:\VS\Lib1var4\Lib1var4\main.cpp(31,41):
+      заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 3
+  
+D:\VS\Lib1var4\Lib1var4\main.cpp(41,1): warning C4715: C_syntax: значение возвращается не при всех путях выполнения
+D:\VS\Lib1var4\Lib1var4\main.cpp(85,1): warning C4715: Cpp_syntax: значение возвращается не при всех путях выполнения
+  Lib1var4.vcxproj -> D:\VS\Lib1var4\x64\Debug\Lib1var4.exe
